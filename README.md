@@ -1,6 +1,6 @@
 # Trainer
 
-Trainer is a program that take a background image (of size 4908x3264 px) and draw on it "stars", it was made for an article in physics (yet to be published).
+Trainer is a program that take a background image (of size 4908x3264 px) and draw on it "stars" using many parameters (there is also a "finder" that finds all the stars, but that will be added later on), it was made for an article in physics (yet to be published).
 
 
 ## how to run the program
